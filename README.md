@@ -1,4 +1,4 @@
 ## API Documentation
 
-[https://github.com/clumsycoder13/test-bursa-efek/blob/master/storage/api-docs/api-docs.json]
+https://github.com/clumsycoder13/bursa-efek-test/blob/master/storage/api-docs/api-docs.json
 
